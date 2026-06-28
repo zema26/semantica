@@ -1,5 +1,7 @@
 # Semantica Language Specs
 
+[transpiler and specs here](http://semantica.replit.app)
+
 Welcome to the specifications of the **Semantica programming language**. These specs will walk you through Semantica's unique syntax, program structure, and features, using enclosed examples
 
 **Semantica** is designed with a primary goal: to make **AI coding** easier, much like natural writing. This is achieved through a few core syntactical changes that streamline the AI development process
